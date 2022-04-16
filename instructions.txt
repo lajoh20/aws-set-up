@@ -1,4 +1,4 @@
-#regster for aws( this takes about 12 hours
+#regster for aws (this takes about 12 hours)
 #set up git hub or git lab
 #create a Ubuntu 20.04 server aws qwick start 
 #conect to aws sshcd 
