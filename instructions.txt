@@ -1,0 +1,21 @@
+
+# conect to aws sshcd 
+https://dev.to/dre4success/ssh-to-an-ec2-instance-from-vs-code-2707
+
+#check for python3
+python3 --version
+
+# update apt
+sudo apt update
+
+# install pip this is pythons packet manager
+sudo apt install python3-pip
+
+# check pip install
+pip3 --version
+
+# make a folder 
+mkdir python
+
+#open the folder in vscode
+add a folder and file in vs code 
