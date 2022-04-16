@@ -1,5 +1,7 @@
-
-# conect to aws sshcd 
+#regster for aws( this takes about 12 hours
+#set up git hub or git lab
+#create a Ubuntu 20.04 server aws qwick start 
+#conect to aws sshcd 
 https://dev.to/dre4success/ssh-to-an-ec2-instance-from-vs-code-2707
 
 #check for python3
@@ -18,4 +20,43 @@ pip3 --version
 mkdir python
 
 #open the folder in vscode
-add a folder and file in vs code 
+#add a folder and file in vs code 
+
+#intro to pyton
+https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+#intro to flask
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX
+#deployment of flask
+https://www.youtube.com/watch?v=dVEjSmKFUVI&list=WL&index=53&t=261s
+https://pythonise.com/series/learning-flask/building-a-flask-app-with-docker-compose
+hint (docker-compose up --build needs to be sudo docker-compose up --build)
+
+trubleshooting for docker compose 
+Tried re-installing docker-ce with apt-get purge --auto-remove. No luck. Restarting docker service with sudo service docker restart works but stopping the service every time I have to use the docker-compose down command is not a fix.
+docker system prune --all --volumes
+sudo docker-compose down
+uninstall
+sudo apt-get purge docker-ce docker-ce-cli containerd.io.
+reinstall
+https://docs.docker.com/engine/install/
+https://docs.docker.com/compose/install/
+
+# qwick intro to html/css/php
+https://www.youtube.com/playlist?list=PLlj9BrHKq9WKaz8UV3BjEqicn-C3qHxy4
+
+# for a CS course 
+https://discover.edx.org/xgs/course/introduction-computer-science-harvardx-cs50x?hs-referral=Course-Card&hsLang=en
+
+#for sql
+https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt
+
+@algo stuff
+https://projecteuler.net/
+https://edabit.com/
+https://leetcode.com/ 
+https://www.codewars.com/
+https://adventofcode.com/
+#if you are intrested in machine lerning
+https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+
