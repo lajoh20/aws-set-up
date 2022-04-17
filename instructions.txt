@@ -1,6 +1,8 @@
 #regster for aws (this takes about 12 hours)
 #set up git hub or git lab
 #create a Ubuntu 20.04 server aws qwick start 
+#install vs code
+  #chromebook instructions https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started
 #conect to aws sshcd 
 https://dev.to/dre4success/ssh-to-an-ec2-instance-from-vs-code-2707
 
